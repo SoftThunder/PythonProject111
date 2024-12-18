@@ -1,1 +1,1 @@
-ffggdd
+print('1')
